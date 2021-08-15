@@ -36,4 +36,4 @@ terraform.rc
 code-bkp/*
 *.code-workspace
 *.pem
-t2-micro
+#t2-micro
